@@ -1,0 +1,25 @@
+.heading  h2{
+    background-color: #E95E3E;   
+    color:white;
+
+}
+
+.data-section {
+    background-color: #fffaf3;
+}
+.table {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.chart {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+
+}
